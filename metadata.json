@@ -1,0 +1,6 @@
+{
+  "name": "Google Home AI",
+  "description": "An interactive smart home dashboard and ambient assistant simulator. Call out smart actions, schedules, vacuum pathways, and climate rules with natural language commands translated in real-time by a server-side Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
